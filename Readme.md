@@ -1,4 +1,4 @@
-Course Info
+# Course Info
 
 Name: Data Analytics
 
@@ -8,7 +8,7 @@ Assignment type: Group project
 
 Project title: Stroke Prediction using Machine Learning
 
-Table of Content:
+# Table of Content:
 
 ![image](https://github.com/JihShian/WQD7003-DATA-ANALYTICS/assets/50051633/7672e49d-5c1c-4b8e-b58c-261965437838)
 
